@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhatsappLayout</string>
+    <string name="chats_text">Chats</string>
+    <string name="calls_text">Calls</string>
+    <string name="status_text">Status</string>
+
+    <string name="search">Search</string>
+    <string name="new_group">New group</string>
+    <string name="new_broadcast">New broadcast</string>
+    <string name="whatsapp_web">WhatsApp Web</string>
+    <string name="starred_msgs">Starred messages</string>
+    <string name="menu_settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="call_button">Call Button</string>
+    <string name="person_name">Gourav</string>
+    <string name="call_time">Yesterday, 11:14 PM</string>
+</resources>
